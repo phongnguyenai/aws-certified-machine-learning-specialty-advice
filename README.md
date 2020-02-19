@@ -15,18 +15,18 @@
 - 150$ (Đúng ra là phải đóng 300$ mà có một anh tốt bụng cho mình Coupon nên còn 150$)
 - Máu liều
 
-- Thật sự thì yêu cầu của Amazon cũng không sai, không chắc chắn về AWS services hoặc Machine Learning (thật ra là Big Data nữa) thì khả năng rớt là khá cao vì những câu hỏi trong kì thi sẽ rất sâu (vì nó là specialty mà) -> Tốt nhất nên chắc chắn kiến thức cả hai trước khi thi đừng liều quăng 300$ qua cửa sổ ^^. 
+- Thật sự thì yêu cầu của Amazon cũng không sai, không chắc chắn về AWS services hoặc Machine Learning (có Data Science nữa) thì khả năng rớt là khá cao vì những câu hỏi trong kì thi sẽ rất sâu (vì nó là Specialty mà) -> Tốt nhất nên chắc chắn kiến thức cả hai trước khi thi đừng liều quăng 300$ qua cửa sổ ^^. 
 
 3. Học gì:
-- Mình sẽ không nói về các khóa ML cơ bản hay học ML như nào. Mình giả sử là mọi người đều okay về ML và chỉ tới đây để ôn thi. Bạn nên có 1 cuốn tập để ghi chép lại nhưng gì cần nhớ, hoặc là bạn nhớ được 1612 trang trong Sagemaker Developer Guides. (Mình đã ghi 3 cuốn trong 22 ngày)
+- Mình sẽ không nói về các khóa ML cơ bản hay học ML như nào. Mình giả sử là mọi người đều okay về ML và chỉ tới đây để ôn thi. Bạn nên có 1 cuốn tập để ghi chép lại nhưng gì cần nhớ, hoặc là bạn nhớ được 1612 trang trong Sagemaker Developer Guides và nhiều cái Developer Guide khác nữa. (Mình đã ghi 3 cuốn tập 96 trang cả bìa trong 22 ngày)
 
-- Thứ 1: **acloud.guru** https://acloud.guru/learn/aws-certified-developer-associate. Bạn nên học cái này để nắm được các services cơ bản của Amazon. Nếu không thì 99% bạn sẽ toang. Học thôi không thi cũng được. (Nếu thi thì phí là 150$)
+- Thứ 1: **acloud.guru** https://acloud.guru/learn/aws-certified-developer-associate. Bạn nên học cái này để nắm được các services cơ bản của Amazon. Nếu không thì 99% bạn sẽ toang. Phí thi là 150$, không thi cũng được.
 
 - Thứ 2: **acloud.guru** https://acloud.guru/learn/aws-certified-machine-learning-specialty. Đây là khóa học cực kỳ hữu ích và nó sẽ cho bạn kiến thức về cả AWS services lẫn ML nhưng kiến thức ML chỉ ở mức nói cho bạn biết "cái này có thể là sẽ nằm trong đề thi nè" chứ "intuition" đằng sau các thuật toán thì bạn phải tự biết rồi. Không ai rảnh ngồi nói cho bạn nghe về LSTM đâu trừ huyền thoại Andrew Ng.
 
 - Thứ 3: **Papers**. Kinh nghiệm là học tới đâu đọc papers tới đó. Trong từng video của AcloudGuru có kèm documentations và white papers. Đọc đi không thừa đâu. Ngoài ra nên search google scholar để đọc thêm cho chắc về các thuật toán và kỹ thuật. 
 
-- Thứ 4: **Developer Guides**. Các service của Amazon thường sẽ có Developer Guides. Hãy chú ý thằng SageMaker https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-dg.pdf rất nhiều câu hỏi xung quanh thanh niên này, nó như trái tim của AWS ML vậy.
+- Thứ 4: **Developer Guides**. Các services của Amazon thường sẽ có Developer Guides. Hãy chú ý thằng SageMaker https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-dg.pdf rất nhiều câu hỏi xung quanh thanh niên này, nó như trái tim của AWS ML vậy.
 
 - Thứ 5: Bật từng service lên để tự trải nghiệm ^^ cực kỳ hữu ích, vì làm sẽ nhớ lâu hơn. 
 
